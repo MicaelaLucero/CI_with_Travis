@@ -1,1 +1,2 @@
-language: java
+Language: java
+Jdk: oraclejdk15
